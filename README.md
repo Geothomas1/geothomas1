@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
-<h3 align="center">A passionate Full stack and Blockchain Developer ,Final Year MCA Student @ College of Engineering Trivandrum.</h3>
+<h3 align="center">A passionate Developer , Final Year MCA Student @ College of Engineering Trivandrum.</h3>
 
 - 🔭 I’m currently working on **Decentralized-Data-Vault-Blockchain Project**
 
