@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
 <h3 align="center">A passionate Full stack and Blockchain Developer ,Final Year MCA Student @ College of Engineering Trivandrum.</h3>
 
-- 🔭 I’m currently working on **Decentralized-Data-Vault-Blockchain**
+- 🔭 I’m currently working on **Decentralized-Data-Vault-Blockchain Project**
 
 - 🌱 I’m currently learning **.Blockchain (In Hyperledger Fabric),React Native,NodeJs-express and Mongodb, Flutter**
 
