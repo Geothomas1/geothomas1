@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Decentralized-Data-Vault-Blockchain Project**
 
-- 🌱 I’m currently learning **Blockchain (In Hyperledger Fabric),React Native,NodeJs-express and Mongodb, Flutter**
+- 🌱 I’m currently learning **Blockchain (Hyperledger Fabric),React Native,NodeJs-express and Mongodb, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://geothomas1.github.io/](https://geothomas1.github.io/)
 
