@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
 <h3 align="center">A passionate Full stack and Blockchain Developer ,Final Year MCA Student @ College of Engineering Trivandrum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geothomas1&label=Profile%20views&color=0e75b6&style=flat" alt="geothomas1" /> </p>
 
 - 🔭 I’m currently working on **Python Django Projects**
 
