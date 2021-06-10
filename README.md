@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
-<h3 align="center">A passionate Developer ,Final Year MCA Student @ College of Engineering Trivandrum.</h3>
+<h3 align="center">Developer ,Final Year MCA Student @ College of Engineering Trivandrum.</h3>
 
 - 👨‍💻 All of my projects are available at [https://geothomas1.github.io/](https://geothomas1.github.io/)
 
