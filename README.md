@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://geothomas1.github.io](https://geothomas1.github.io)
 
-- 📫 How to reach me **geothomas@cet.ac.in**
+- 📫 How to reach me **geothomastb@gmail.com**
 
 - ⚡ Fun fact **I L P**
 
