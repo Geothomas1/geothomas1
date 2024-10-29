@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
 
 
-- 🔭 I’m currently working on **Something cool **
+- 🔭 I’m currently working on **Something cool in BLKBOX**
 
-- 🌱 I’m currently learning **Flutter,React**
+- 🌱 I’m currently learning ** ETP **
 
 - 👨‍💻 All of my projects are available at [https://geothomas1.github.io](https://geothomas1.github.io)
 
