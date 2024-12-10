@@ -19,4 +19,4 @@
 <a href="https://www.hackerrank.com/geo_thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geo_thomas" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geothomas1&" alt="geothomas1" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=geothomas1&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
