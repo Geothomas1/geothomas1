@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geo Thomas</h1>
 
 <p align="center">
-  <i>Software Engineer | Tech Explorer | Builder of Cool Things</i>
+  <i> Engineer | Tech Explorer | Builder of Cool Things</i>
 </p>
 
 ---
