@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Geo Thomas — Software Engineer</title>
+  <meta name="description" content="Resume of Geo Thomas — Software Engineer (Python, Node).">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0f1724;
+      --card:#0b1220;
+      --accent:#0ea5a3;
+      --muted:#9aa4b2;
+      --glass: rgba(255,255,255,0.03);
+      --radius:12px;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family:Inter,system-ui,Arial,Helvetica,sans-serif;
+      background:linear-gradient(180deg,#071024 0%, #081726 60%);
+      color:#e6eef6;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      padding:32px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+
+    .container{
+      width:100%;
+      max-width:900px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      border-radius:16px;
+      padding:28px;
+      box-shadow: 0 10px 30px rgba(2,6,23,0.6);
+      display:grid;
+      grid-template-columns: 1fr 320px;
+      gap:24px;
+    }
+
+    @media (max-width:880px){
+      .container{grid-template-columns:1fr; padding:20px}
+    }
+
+    header{
+      grid-column: 1 / span 1;
+      display:flex;
+      align-items:center;
+      gap:18px;
+    }
+
+    .avatar{
+      width:92px; height:92px;
+      border-radius:14px;
+      background:linear-gradient(135deg,var(--accent),#06b6d4);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-weight:700;
+      font-size:26px;
+      color:#022028;
+      box-shadow: 0 6px 18px rgba(14,165,163,0.12);
+    }
+
+    .heading h1{margin:0; font-size:22px; letter-spacing:1px}
+    .heading p{margin:4px 0 0; color:var(--muted); font-size:13px}
+
+    main{
+      padding-top:6px;
+    }
+
+    .section{
+      background:var(--glass);
+      border-radius:12px;
+      padding:16px;
+      margin-bottom:14px;
+      color:#d9e6ef;
+    }
+
+    .two-col{display:flex; gap:12px; flex-wrap:wrap}
+    .pill{display:inline-block;background:rgba(255,255,255,0.03); padding:6px 10px; border-radius:999px; font-size:13px; color:var(--muted)}
+
+    .sidebar{
+      background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02));
+      border-radius:12px;
+      padding:18px;
+      height:fit-content;
+    }
+
+    h3{margin:0 0 8px 0}
+    p.small{margin:0; color:var(--muted); font-size:14px}
+    ul{margin:8px 0 0 18px; padding:0}
+    li{margin-bottom:8px; line-height:1.45}
+
+    .links a{color:var(--accent); text-decoration:none; font-weight:600}
+    .projects a{color:var(--accent)}
+
+    footer{grid-column:1 / -1; text-align:center; color:var(--muted); font-size:13px; margin-top:6px}
+  </style>
+</head>
+<body>
+  <div class="container" role="main">
+    <div>
+      <header>
+        <div class="avatar">GT</div>
+        <div class="heading">
+          <h1>Geo Thomas</h1>
+          <p>Software Engineer — Python &amp; Node</p>
+          <div style="margin-top:8px" class="two-col">
+            <span class="pill">6238908844</span>
+            <span class="pill">geothomastb@gmail.com</span>
+            <span class="pill"><a class="links" href="https://geothomas1.github.io" target="_blank" rel="noopener">geothomas1.github.io</a></span>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <section class="section">
+          <h3>Profile</h3>
+          <p class="small">Software Engineer with <strong>3.5 years</strong> of expertise in Python and Node. I am confident in my ability to take on responsibility and learn quickly to deliver effective solutions.</p>
+        </section>
+
+        <section class="section">
+          <h3>Work Experience</h3>
+
+          <h4 style="margin:8px 0 4px 0">BLKBOX.AI — Software Development Engineer 2</h4>
+          <p class="small" style="margin:0 0 8px 0">August 2022 - Present</p>
+          <ul>
+            <li>Led and contributed to AI-based projects by developing core functionalities and algorithms, improving system performance and accuracy.</li>
+            <li>Automated critical workflows to improve operational efficiency and reduce manual efforts.</li>
+            <li>Integrated various AWS services as part of different automation processes.</li>
+            <li>Managed a team with technical guidance, task planning, and prioritization aligned to product goals.</li>
+            <li>Conducted code reviews to ensure high code quality and maintainability.</li>
+            <li>Collaborated closely with product managers to scope and deliver features on-time.</li>
+          </ul>
+
+          <h4 style="margin:12px 0 4px 0">Exlygenze Senseworks — Full Stack Engineer</h4>
+          <p class="small" style="margin:0 0 8px 0">September 2021 - August 2022</p>
+          <ul>
+            <li>Developed and maintained web applications using Angular (frontend) and Python Flask (backend).</li>
+            <li>Built assessment modules and core backend logic for seamless functionality.</li>
+            <li>Created a solution for generating PDF reports.</li>
+          </ul>
+
+          <h4 style="margin:12px 0 4px 0">Exlygenze Senseworks — Software Developer Intern</h4>
+          <p class="small" style="margin:0 0 8px 0">May 2021 - August 2021</p>
+          <ul>
+            <li>Worked with senior developers to design, test and debug API endpoints.</li>
+            <li>Integrated APIs with front-end and databases to improve system efficiency.</li>
+          </ul>
+        </section>
+
+        <section class="section">
+          <h3>Personal Projects</h3>
+          <ul class="projects">
+            <li><strong>Google Play Store dataset</strong> — Created dataset using Scrapy and published on Kaggle. Analysis on app permission management. <a href="https://www.kaggle.com/datasets/geothomas/playstore-dataset" target="_blank" rel="noopener">Kaggle</a></li>
+            <li><strong>Decentralized-Data-Vault</strong> — Built a decentralized data vault with Hyperledger Fabric. <a href="https://github.com/Geothomas1/Decentralized-Data-Vault" target="_blank" rel="noopener">GitHub</a></li>
+            <li>Other: LMS, 24 Media, Covid 19 tracker, RTOMS</li>
+          </ul>
+        </section>
+
+        <section class="section">
+          <h3>Education</h3>
+          <ul>
+            <li>MCA — College Of Engineering, Trivandrum (2019 - 2021)</li>
+            <li>BCA — St. Berchmans Autonomous College, Changanacherry (2015 - 2018)</li>
+            <li>HSE — NSS HSS, Changanacherry, Kerala (2013 - 2015)</li>
+          </ul>
+        </section>
+
+      </main>
+    </div>
+
+    <aside class="sidebar">
+      <div style="margin-bottom:18px">
+        <h3>Skills</h3>
+        <p class="small">Node · Python · PHP · SQL · AWS services · Docker · Angular</p>
+      </div>
+
+      <div style="margin-bottom:18px">
+        <h3>Links</h3>
+        <p class="small links"><a href="https://github.com/geothomastb" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.kaggle.com/datasets/geothomas/playstore-dataset" target="_blank" rel="noopener">Kaggle</a></p>
+      </div>
+
+      <div>
+        <h3>Other</h3>
+        <p class="small">Freelance — Max Complete Solution, CET PG Association, Student projects</p>
+      </div>
+    </aside>
+
+    <footer>
+      Resume generated from provided PDF (content used). Feel free to edit the HTML to tweak copy, fonts or colors.
+    </footer>
+  </div>
+</body>
+</html>
