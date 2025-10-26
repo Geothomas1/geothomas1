@@ -14,7 +14,7 @@
 - 🔭 Currently **Building something really cool**
 - 🌱 Exploring AI, Automation, and systems that *make people think smarter*
 - 📫 Reach me at: **geothomastb@gmail.com**
-- ☕ Want to talk ideas? [**Book a 30-min chat**](https://calendly.com/geothomastb/30min)
+- ☕ Want to talk ? [**Book a 30-min chat**](https://calendly.com/geothomastb/30min)
 
 ---
 
