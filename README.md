@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Schedule%20a%20Chat-Calendly-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Chat">
   </a>
   <br>
-  <a href="https://github.com/geothomastb">Code Contributions</a>
+  <a href="https://github.com/geothomastb">Code Contributions @ BLKBOX.AI</a>
 </p>
 
 ---
