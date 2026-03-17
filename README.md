@@ -35,5 +35,8 @@
   <a href="https://www.hackerrank.com/geo_thomas" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank"/>
   </a>
+  <a href="https://medium.com/@geothomastb" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/>
+  </a>
 </p>
 
