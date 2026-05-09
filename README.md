@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+%F0%9F%91%8B++I'm+Geo+Thomas;Engineer+%7C+Tech+Explorer+%7C+Building+what+I+believe+in+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 <h1 align="center">👋 Hey, I'm <span style="color:#0078ff;">Geo Thomas</span></h1>
 
 <p align="center">
