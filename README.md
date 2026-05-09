@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+%F0%9F%91%8B++I'm+Geo+Thomas;Engineer+%7C+Tech+Explorer+%7C+Building+what+I+believe+in+%F0%9F%9A%80" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F7C0&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Geo+Thomas;Engineer+%7C+Tech+Explorer+%F0%9F%9A%80;Building+something+really+cool)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://calendly.com/geothomastb/30min" target="_blank">
