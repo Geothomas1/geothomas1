@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Schedule%20a%20Chat-Calendly-blue?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Chat">
   </a>
   <br>
-  <a href="https://github.com/geothomastb">Code Contributions @ BLKBOX.AI</a>
 </p>
 
 ---
@@ -15,6 +14,7 @@
 - 🔭 Currently **Building something really cool**
 - 📫 Reach me at: **geothomastb@gmail.com**
 - ☕ Want to talk ? [**Book a 30-min chat**](https://calendly.com/geothomastb/30min)
+-   <a href="https://github.com/geothomastb">Code Contributions @ BLKBOX.AI</a>
 
 ---
 
