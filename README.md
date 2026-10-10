@@ -14,7 +14,7 @@
 - 🔭 Currently **Building something really cool**
 - 📫 Reach me at: **geothomastb@gmail.com**
 - ☕ Want to talk ? [**Book a 30-min chat**](https://calendly.com/geothomastb/30min)
--   <a href="https://github.com/geothomastb">Code Contributions @ BLKBOX.AI</a>
+- < / >  <a href="https://github.com/geothomastb">Code Contributions @ BLKBOX.AI</a>
 
 ---
 
