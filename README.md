@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=15F7C0&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Geo+Thomas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=15F7C0&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Geo+Thomas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,38 +18,24 @@
   </a>
 </p>
 
-<br/>
+---
 
-<!-- ABOUT & PRODUCTS CARD -->
-<div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; max-width: 650px; width: 100%;">
-    <tr>
-      <td align="left" style="background-color: #0d1117; border: 1px solid #15F7C0; border-radius: 8px;">
-        <h3 align="center" style="margin-top: 0; color: #15F7C0;">👨‍💻 About Me</h3>
-        
-        <ul>
-          <li>🚀 <b>Currently Building:</b> <a href="https://www.trowins.com" target="_blank"><b>TROWINS</b></a></li>
-          <li>💻 <b>Previous Role:</b> <a href="https://github.com/geothomastb" target="_blank">Code Contributions @ <b>BLKBOX.AI</b></a></li>
-          <li>📫 <b>Contact:</b> <a href="mailto:geothomastb@gmail.com">geothomastb@gmail.com</a></li>
-        </ul>
+### 👨‍💻 About Me
 
-        <hr style="border: 0; height: 1px; background: #30363d; margin: 15px 0;" />
+* 🚀 **Currently Building:** [**TROWINS**](https://www.trowins.com)
+* 💻 **Previous Role:** [Code Contributions @ **BLKBOX.AI**](https://github.com/geothomastb)
+* 📫 **Contact:** geothomastb@gmail.com
 
-        <h3 align="center" style="margin-top: 0; color: #15F7C0;">✨ Live Products</h3>
-        
-        <ul>
-          <li>🎙️ <b><a href="https://tess.trowins.com/" target="_blank">Tess</a></b> — Offline voice dictation app for Mac</li>
-          <li>🎬 <b><a href="https://cutroom.trowins.com/" target="_blank">Cutroom</a></b> — Browser-based, private online video tools</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br/>
+### ✨ Live Products
 
-<!-- CONNECT -->
-<h3 align="center">🌐 Connect with Me</h3>
+* 🎙️ [**Tess**](https://tess.trowins.com/) — Offline voice dictation app for Mac
+* 🎬 [**Cutroom**](https://cutroom.trowins.com/) — Browser-based, private online video tools
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/ggeothomas" target="_blank">
