@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=15F7C0&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Geo+Thomas;Engineer+%7C+Tech+Explorer+%F0%9F%9A%80;Building+Trowins+%E2%86%92+www.trowins.com" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=15F7C0&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Geo+Thomas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,20 +20,26 @@
 
 <br/>
 
-<!-- ABOUT ME CARD -->
+<!-- ABOUT & PRODUCTS CARD -->
 <div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; max-width: 650px;">
+  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; max-width: 650px; width: 100%;">
     <tr>
       <td align="left" style="background-color: #0d1117; border: 1px solid #15F7C0; border-radius: 8px;">
         <h3 align="center" style="margin-top: 0; color: #15F7C0;">👨‍💻 About Me</h3>
-        <p align="center">
-          Full-stack engineer and tech explorer passionate about building scalable web applications, modern toolings, and clean digital experiences.
-        </p>
-        <hr style="border: 0; height: 1px; background: #30363d; margin: 15px 0;" />
+        
         <ul>
-          <li>🚀 <b>Currently Building:</b> <a href="https://www.trowins.com" target="_blank"><b>Trowins</b></a></li>
+          <li>🚀 <b>Currently Building:</b> <a href="https://www.trowins.com" target="_blank"><b>TROWINS</b></a></li>
           <li>💻 <b>Previous Role:</b> <a href="https://github.com/geothomastb" target="_blank">Code Contributions @ <b>BLKBOX.AI</b></a></li>
-          <li>📫 <b>Get in Touch:</b> <a href="mailto:geothomastb@gmail.com">geothomastb@gmail.com</a></li>
+          <li>📫 <b>Contact:</b> <a href="mailto:geothomastb@gmail.com">geothomastb@gmail.com</a></li>
+        </ul>
+
+        <hr style="border: 0; height: 1px; background: #30363d; margin: 15px 0;" />
+
+        <h3 align="center" style="margin-top: 0; color: #15F7C0;">✨ Live Products</h3>
+        
+        <ul>
+          <li>🎙️ <b><a href="https://tess.trowins.com/" target="_blank">Tess</a></b> — Offline voice dictation app for Mac</li>
+          <li>🎬 <b><a href="https://cutroom.trowins.com/" target="_blank">Cutroom</a></b> — Browser-based, private online video tools</li>
         </ul>
       </td>
     </tr>
@@ -42,7 +48,7 @@
 
 <br/>
 
-<!-- SOCIAL CONNECT -->
+<!-- CONNECT -->
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
