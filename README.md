@@ -20,58 +20,30 @@
 
 <br/>
 
-<!-- ABOUT & FEATURED PROJECT -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        Full-stack engineer and tech explorer passionate about building scalable web applications, modern toolings, and clean digital experiences.
-      </p>
-      <ul>
-        <li>🚀 <b>Currently Building:</b> <a href="https://www.trowins.com"><b>Trowins</b></a></li>
-        <li>💼 <b>Previous Role:</b> Code Contributions @ <b>BLKBOX.AI</b></li>
-        <li>📫 <b>Contact:</b> <a href="mailto:geothomastb@gmail.com">geothomastb@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ Featured Project</h3>
-      <a href="https://www.trowins.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=geothomastb&repo=trowins&theme=dark&border_color=15F7C0&bg_color=0D1117&title_color=15F7C0" width="100%" alt="Trowins Repo Card" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ABOUT ME CARD -->
+<div align="center">
+  <table border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; max-width: 650px;">
+    <tr>
+      <td align="left" style="background-color: #0d1117; border: 1px solid #15F7C0; border-radius: 8px;">
+        <h3 align="center" style="margin-top: 0; color: #15F7C0;">👨‍💻 About Me</h3>
+        <p align="center">
+          Full-stack engineer and tech explorer passionate about building scalable web applications, modern toolings, and clean digital experiences.
+        </p>
+        <hr style="border: 0; height: 1px; background: #30363d; margin: 15px 0;" />
+        <ul>
+          <li>🚀 <b>Currently Building:</b> <a href="https://www.trowins.com" target="_blank"><b>Trowins</b></a></li>
+          <li>💻 <b>Previous Role:</b> <a href="https://github.com/geothomastb" target="_blank">Code Contributions @ <b>BLKBOX.AI</b></a></li>
+          <li>📫 <b>Get in Touch:</b> <a href="mailto:geothomastb@gmail.com">geothomastb@gmail.com</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-<!-- TECH STACK -->
-<h3 align="center">🛠️ Tech & Ecosystem</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
-</p>
-
-<br/>
-
-<!-- GITHUB METRICS CARD -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geothomastb&show_icons=true&theme=dark&rank_icon=github&border_color=15F7C0&bg_color=0D1117&title_color=15F7C0&text_color=8B949E" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geothomastb&layout=compact&theme=dark&border_color=15F7C0&bg_color=0D1117&title_color=15F7C0&text_color=8B949E" height="160" alt="Top Languages" />
-</p>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<h3 align="center">🌐 Connect</h3>
+<!-- SOCIAL CONNECT -->
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://twitter.com/ggeothomas" target="_blank">
